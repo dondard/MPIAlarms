@@ -20,7 +20,7 @@ public class MPIAlarm extends Activity {
             public void onClick(View v) {
                 System.out.println("Merlin ist doof");
                 TextView text = (TextView) findViewById(R.id.tfdAktuellealarme);
-                text.setText("Merlin dumm!!!");
+                text.setText("Konrad dumm!!!");
             }
         });
     }
