@@ -18,7 +18,7 @@ public class MPIAlarm extends Activity {
         final Button button = (Button) findViewById(R.id.button);
         button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                System.out.println("Merlin ist doof");
+                System.out.println("jkbvkghvof");
                 TextView text = (TextView) findViewById(R.id.tfdAktuellealarme);
                 text.setText("Konrad dumm!!!");
             }
